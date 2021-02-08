@@ -9,4 +9,4 @@
 
 # Specifications
 
-The specification given for the project (in Italian) can be found
+The specification given for the project (in Italian) can be found [here](https://github.com/CosimoSguanci/Polimi-Algorithms-and-Data-Structures-Project-2019/blob/main/doc/specifications.pdf)
